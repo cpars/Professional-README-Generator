@@ -36,8 +36,7 @@ function renderLicenseSection(license) {
     if (license === "None") {
         return "";
       }
-      return `
-    ## License
+      return `## License
     This project is licensed under the [${license}](${renderLicenseLink(license)}) license.`;
 }
 
@@ -60,9 +59,9 @@ ${data.description}
 - [Questions](#questions)
 
 ## Installation
-\`\`\`
+
 ${data.installation}
-\`\`\`
+
 
 ## Usage
 ${data.usage}
@@ -73,9 +72,9 @@ ${renderLicenseSection(data.license)}
 ${data.contributing}
 
 ## Tests
-\`\`\`
+
 ${data.tests}
-\`\`\`
+
 
 ## Questions
 For any questions, feel free to contact me:
