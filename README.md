@@ -1,10 +1,10 @@
 
- # hello
+ # This is the title of the project.
 
 https://img.shields.io/badge/License-MIT-yellow.svg
 
 ## Description
-this is my description
+This is where the description of the project goes.
 
 ## Table of Contents
 - [Installation](#installation)
@@ -15,27 +15,26 @@ this is my description
 - [Questions](#questions)
 
 ## Installation
-```
-these are the install instructions
-```
+
+These are the install instructions.
+
 
 ## Usage
-these are the usage instructions
+These are the usage instructions
 
-
-    ## License
+## License
     This project is licensed under the [MIT](https://opensource.org/licenses/MIT) license.
 
 ## Contributing
-these are the guidelines
+these are the contribution guidelines.
 
 ## Tests
-```
-thes are the tests
-```
+
+These are the test instructions.
+
 
 ## Questions
 For any questions, feel free to contact me:
-- GitHub: [cparsonssssss](https://github.com/cparsonssssss)
-- Email: sjdilsndf@gmail.com
+- GitHub: [cpars](https://github.com/cpars)
+- Email: cparsons0730@yahoo.com
 
