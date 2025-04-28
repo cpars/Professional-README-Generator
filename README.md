@@ -92,8 +92,8 @@ Currently, no tests are configured for this project.
 
 If you have any questions, feel free to reach out:
 
-- GitHub: [your-username](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [cpars](https://github.com/your-username)
+- Email: cparsons0730@yahoo.com
 
 I am happy to connect and assist!
 
